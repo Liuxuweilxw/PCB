@@ -1,0 +1,14 @@
+### Module positions - created on 07/14/21 15:22:03 ###
+### Printed by Pcbnew version kicad (5.1.10)-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val       Package                                       PosX       PosY       Rot  Side
+C1        104       C_0603_1608Metric                         116.3750  -124.6000  180.0000  top
+C2        104       C_0603_1608Metric                         116.4250  -117.7000  180.0000  top
+D1        LED       LED_0603_1608Metric                       120.1000  -122.4125  270.0000  top
+D2        LED       LED_0603_1608Metric                       120.1000  -119.4125   90.0000  top
+J1        USB_A     USB_A_CNCTech_1001-011-01101_Horizontal    96.8000  -121.0000  180.0000  top
+R1        4.7K      R_0603_1608Metric                         120.1000  -125.4000   90.0000  top
+R2        4.7K      R_0603_1608Metric                         120.1000  -116.3750  270.0000  top
+U1        CH330N    SOIC-8_3.9x4.9mm_P1.27mm                  114.1750  -121.1050    0.0000  top
+## End
